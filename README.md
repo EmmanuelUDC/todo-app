@@ -4,8 +4,8 @@ This is a code-along solution to the Web3Bridge Weekly Tasks. The challenge is t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/EmmanuelUDC/todo-app](https://github.com/EmmanuelUDC/todo-app)
+- Live Site URL: [https://emmanueludc.github.io/todo-app/](https://emmanueludc.github.io/todo-app/)
 
 ### Built with
 
